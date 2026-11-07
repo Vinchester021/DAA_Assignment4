@@ -1,4 +1,4 @@
-package com.example.daa.edit;
+package com.example.edit;
 
 public class RecursiveEditDistance {
 
